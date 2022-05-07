@@ -1,0 +1,9 @@
+{
+    "component": {
+      "testFiles": "**/*.test.{js,ts,jsx,tsx}",
+      "baseUrl": "https://localhost:8080/",
+      "componentFolder": "src",
+      "experimentalSourceRewriting": true
+    }
+  }
+  

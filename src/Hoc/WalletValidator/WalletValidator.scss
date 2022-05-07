@@ -1,0 +1,13 @@
+.wallet-validator-wrapper {
+  position: relative;
+  width: 100%;
+  .un-matched-blocker {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    cursor: pointer;
+    z-index: 20;
+  }
+}
